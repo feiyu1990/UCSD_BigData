@@ -1,4 +1,5 @@
 ### AWS credentials: ####
+
 # Change entries here to match your own #
 # Get values for the first two entries from the "Security crediential" Tab
 # Under in the menu under your name.
@@ -10,4 +11,5 @@ key_name="yufei" # name of keypair (not name of file where key is stored)
 # Set the security group On the EC2 page (You will need to add IP addresses if
 # you want to connect from a place previously unauthorized.
 security_groups=['default']
+
 ### End of AWS credentials ####
